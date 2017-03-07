@@ -7,7 +7,7 @@
     "**/*.txt"
   ],
   "dependencies": {
-    "angular": "^1.6.1",
+    "angular": "^1.6.2",
     "angular-ui-router": "^0.3.2",
     "font-awesome": "^4.7.0",
     "sweetalert": "^1.1.3",

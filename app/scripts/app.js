@@ -1,12 +1,8 @@
-'use strict';
-
-var express = require('express');
-var app = express();
-var router = express.Router();
-
-app.use(express.static('app'));
-app.get('/', function (req, res) {
-    res.sendfile('./app/index.html');
-});
-
-app.listen(5000);
+(function () {
+    'use strict';
+    angular
+        .module('facecraft', ['ui.router', 'ui.bootstrap'])
+        .config(['$urlRouterProvider', function ($urlRouterProvider) {
+            $urlRouterProvider.otherwise("/app");
+        }]);
+})();
