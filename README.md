@@ -11,7 +11,7 @@
     $ npm install -g gulp-cli
     $ bower install
 ```
-**Observação: Entrando via linha de comando nessa pasta [facecraft].**
+**Observação: Entrando via linha de comando nessa pasta [facecraft] ou na pasta raíz do projeto.**
 
 ### Como Executar
 
