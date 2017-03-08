@@ -14,10 +14,10 @@
     "express": "^4.15.2",
     "gulp": "^3.9.1",
     "gulp-cli": "^1.2.2",
+    "mysql": "^2.13.0",
     "passport": "^0.3.2",
     "run-sequence": "^1.2.2",
-    "socket.io": "^1.7.3",
-    "sqlite3": "^3.1.8"
+    "socket.io": "^1.7.3"
   },
   "devDependencies": {
     "browser-sync": "^2.18.8",
