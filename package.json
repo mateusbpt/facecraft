@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bower": "^1.8.0",
+    "crypto-js": "^3.1.9-1",
     "express": "^4.15.2",
     "gulp": "^3.9.1",
     "gulp-cli": "^1.2.2",
